@@ -1,10 +1,6 @@
 package Travel;
 
 public class Travelrunner {
-    private static String v;
-    private static String c;
-    private static String p;
-
     public static void main(String[]args){
         int num = 0;
         Travel n = new Travel(6);
