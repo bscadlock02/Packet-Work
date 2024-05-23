@@ -12,7 +12,7 @@ public class Cube {
     }
     
     public double surfaceArea(){
-        return ;
+        return  side*9*2;
     }
 
     public double getSide(){
